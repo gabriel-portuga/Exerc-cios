@@ -20,3 +20,4 @@ def fatorial(n, show=False):
 # Programa
 print(fatorial(5, show=True))
 help(fatorial)
+print(fatorial(6))
